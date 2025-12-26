@@ -1,3 +1,4 @@
+#linting and styling requirements
 pylint
 pycodestyle
 
@@ -8,6 +9,3 @@ fake_useragent
 streamlit
 requests
 bs4
-
-#H2
-pygame
